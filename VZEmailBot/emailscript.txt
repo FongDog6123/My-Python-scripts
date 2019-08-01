@@ -1,0 +1,9 @@
+vci-core-task1.sfdc.wavemarket.com
+Wed Jul 17 16:00:03 PDT 2019
+vci-core-task1 | Wed Jul 17 16:00:01.194 PDT 2019 | http-bio-8080-exec-7 | com.wavemarket.finder.common.task.CNIEmailAlertDigestHSTask | NOTICE | Starting com.wavemarket.finder.common.task.CNIEmailAlertDigestHSTask task
+vci-core-task2.sfdc.wavemarket.com
+Wed Jul 17 16:00:05 PDT 2019
+vci-core-task2 | Wed Jul 17 16:00:02.078 PDT 2019 | http-bio-8080-exec-6 | com.wavemarket.finder.common.task.CNIEmailAlertDigestHSTask | NOTICE | Starting com.wavemarket.finder.common.task.CNIEmailAlertDigestHSTask task
+vci-core-task3.sfdc.wavemarket.com
+Wed Jul 17 16:00:08 PDT 2019
+vci-core-task3 | Wed Jul 17 16:00:02.296 PDT 2019 | http-bio-8080-exec-1 | com.wavemarket.finder.common.task.CNIEmailAlertDigestHSTask | NOTICE | Starting com.wavemarket.finder.common.task.CNIEmailAlertDigestHSTask task

@@ -1,0 +1,6 @@
+vci-core-task1.sfdc.wavemarket.com
+Sun Jul 14 13:26:13 PDT 2019
+vci-core-task2.sfdc.wavemarket.com
+Sun Jul 14 13:26:14 PDT 2019
+vci-core-task3.sfdc.wavemarket.com
+Sun Jul 14 13:26:15 PDT 2019
