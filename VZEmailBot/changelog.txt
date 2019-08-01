@@ -1,2 +1,3 @@
 Set Bot up for testing
 
+Included bot to call weekly shell scripts and have slack bot post file to designated slack channel
