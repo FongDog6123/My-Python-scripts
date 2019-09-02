@@ -1,0 +1,15 @@
+from selenium.webdriver.common.by import By
+from seleniumbase import BaseCase
+
+
+class MyTestClass(BaseCase):
+    def test_basic(self):
+        self.open("https://sprint-locator.safely.com/signIn.htm")
+        self.send_keys('//*[@id="phoneNumber"]', 'Account_Number', by=By.XPATH, timeout=15)
+        self.send_keys('//*[@id="password"]', 'Account_PW', by=By.XPATH, timeout=15)
+        self.click('//*[@id="signin"]/div/button', by=By.XPATH, timeout=90, delay=3)
+        self.click('//*[@id="content-innermost-container"]/div[1]/button[2]/span', by=By.XPATH, timeout=90, delay=3)
+        self.click('//*[@id="77468395"]/div[2]/div[5]/form/button', by=By.XPATH, timeout=90, delay=3)
+        self.wait_for_element_visible('//*[@id="node_people77468395"]', by=By.XPATH, timeout=30)
+        self.click('//*[@id="77468393"]/div[2]/div[5]/form/button', by=By.XPATH, timeout=90, delay=3)
+        self.wait_for_element_visible('//*[@id="node_people77468393"]', by=By.XPATH, timeout=30)
